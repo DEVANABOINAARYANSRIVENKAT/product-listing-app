@@ -1,0 +1,35 @@
+// src/data/products.js
+
+export const products = [
+    { id: 1, title: 'Product 1', description: 'Description 1', price: 10, category: 'Category A', image: 'image1.jpg' },
+    { id: 2, title: 'Product 2', description: 'Description 2', price: 20, category: 'Category B', image: 'image2.jpg' },
+    { id: 3, title: 'Product 3', description: 'Description 3', price: 30, category: 'Category C', image: 'image3.jpg' },
+    { id: 4, title: 'Product 4', description: 'Description 4', price: 40, category: 'Category A', image: 'image4.jpg' },
+    { id: 5, title: 'Product 5', description: 'Description 5', price: 50, category: 'Category B', image: 'image5.jpg' },
+    { id: 6, title: 'Product 6', description: 'Description 6', price: 60, category: 'Category C', image: 'image6.jpg' },
+    { id: 7, title: 'Product 7', description: 'Description 7', price: 70, category: 'Category A', image: 'image7.jpg' },
+    { id: 8, title: 'Product 8', description: 'Description 8', price: 80, category: 'Category B', image: 'image8.jpg' },
+    { id: 9, title: 'Product 9', description: 'Description 9', price: 90, category: 'Category C', image: 'image9.jpg' },
+    { id: 10, title: 'Product 10', description: 'Description 10', price: 100, category: 'Category A', image: 'image10.jpg' },
+    // { id: 11, title: 'Product 11', description: 'Description 11', price: 110, category: 'Category B', image: 'image11.jpg' },
+    // { id: 12, title: 'Product 12', description: 'Description 12', price: 120, category: 'Category C', image: 'image12.jpg' },
+    // { id: 13, title: 'Product 13', description: 'Description 13', price: 130, category: 'Category A', image: 'image13.jpg' },
+    // { id: 14, title: 'Product 14', description: 'Description 14', price: 140, category: 'Category B', image: 'image14.jpg' },
+    // { id: 15, title: 'Product 15', description: 'Description 15', price: 150, category: 'Category C', image: 'image15.jpg' },
+    // { id: 16, title: 'Product 16', description: 'Description 16', price: 160, category: 'Category A', image: 'image16.jpg' },
+    // { id: 17, title: 'Product 17', description: 'Description 17', price: 170, category: 'Category B', image: 'image17.jpg' },
+    // { id: 18, title: 'Product 18', description: 'Description 18', price: 180, category: 'Category C', image: 'image18.jpg' },
+    // { id: 19, title: 'Product 19', description: 'Description 19', price: 190, category: 'Category A', image: 'image19.jpg' },
+    // { id: 20, title: 'Product 20', description: 'Description 20', price: 200, category: 'Category B', image: 'image20.jpg' },
+    // { id: 21, title: 'Product 21', description: 'Description 21', price: 210, category: 'Category C', image: 'image21.jpg' },
+    // { id: 22, title: 'Product 22', description: 'Description 22', price: 220, category: 'Category A', image: 'image22.jpg' },
+    // { id: 23, title: 'Product 23', description: 'Description 23', price: 230, category: 'Category B', image: 'image23.jpg' },
+    // { id: 24, title: 'Product 24', description: 'Description 24', price: 240, category: 'Category C', image: 'image24.jpg' },
+    // { id: 25, title: 'Product 25', description: 'Description 25', price: 250, category: 'Category A', image: 'image25.jpg' },
+    // { id: 26, title: 'Product 26', description: 'Description 26', price: 260, category: 'Category B', image: 'image26.jpg' },
+    // { id: 27, title: 'Product 27', description: 'Description 27', price: 270, category: 'Category C', image: 'image27.jpg' },
+    // { id: 28, title: 'Product 28', description: 'Description 28', price: 280, category: 'Category A', image: 'image28.jpg' },
+    // { id: 29, title: 'Product 29', description: 'Description 29', price: 290, category: 'Category B', image: 'image29.jpg' },
+    // { id: 30, title: 'Product 30', description: 'Description 30', price: 300, category: 'Category C', image: 'image30.jpg' }
+  ];
+  
